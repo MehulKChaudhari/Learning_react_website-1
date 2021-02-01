@@ -32,9 +32,15 @@ class Home extends Component{
           {postList}
 
         </div>
+        <div className="center" >
+            <h3>The Website is practice website and it's under constrution.</h3>
+          </div>
       </div>
+
+      
     )
-  }   
+  } 
+    
 }
 
 const mapStateToProps = (state) => {
